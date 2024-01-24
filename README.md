@@ -1,4 +1,4 @@
-# Economic News Article Tone and Relevance
+# NLP : Text Classification - Classifying Articles Relevant to US Economy
 
 ## Overview
 
